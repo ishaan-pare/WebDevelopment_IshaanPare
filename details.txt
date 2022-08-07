@@ -1,0 +1,12 @@
+Name - Ishaan Pare
+Register id - 20BCE10907
+
+File structure 
+resources
+    -back.png
+    -back2.jpg
+    -images.jpg
+    -logo.png
+index.html
+index.js
+style.css
