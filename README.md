@@ -1,3 +1,3 @@
 # WebDevelopment_IshaanPare
 
-## Task for GDSC 
+## Tasks for GDSC 
